@@ -1,0 +1,20 @@
+Quito,Guayaquil,85.00
+Quito,Cuenca,72.00
+Quito,Manta,68.00
+Quito,Tena,55.00
+Guayaquil,Cuenca,48.00
+Guayaquil,Manta,44.00
+Guayaquil,Loja,62.00
+Cuenca,Loja,39.00
+Cuenca,Guayaquil,50.00
+Manta,Guayaquil,46.00
+Manta,Loja,75.00
+Tena,Coca,36.00
+Coca,Lago Agrio,31.00
+Lago Agrio,Quito,59.00
+Loja,Quito,78.00
+Loja,Guayaquil,64.00
+Coca,Quito,57.00
+Tena,Quito,54.00
+Guayaquil,Quito,83.00
+Cuenca,Quito,70.00

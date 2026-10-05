@@ -1,0 +1,46 @@
+REPORTE GENERAL DEL GRAFO DE VUELOS
+============================================
+Aeropuertos registrados: 8
+Rutas dirigidas registradas: 20
+
+AEROPUERTOS:
+Coca, Cuenca, Guayaquil, Lago Agrio, Loja, Manta, Quito, Tena
+
+RUTAS Y COSTOS:
+- Coca         -> Lago Agrio    USD  31.00
+- Coca         -> Quito         USD  57.00
+- Cuenca       -> Guayaquil     USD  50.00
+- Cuenca       -> Loja          USD  39.00
+- Cuenca       -> Quito         USD  70.00
+- Guayaquil    -> Cuenca        USD  48.00
+- Guayaquil    -> Loja          USD  62.00
+- Guayaquil    -> Manta         USD  44.00
+- Guayaquil    -> Quito         USD  83.00
+- Lago Agrio   -> Quito         USD  59.00
+- Loja         -> Guayaquil     USD  64.00
+- Loja         -> Quito         USD  78.00
+- Manta        -> Guayaquil     USD  46.00
+- Manta        -> Loja          USD  75.00
+- Quito        -> Cuenca        USD  72.00
+- Quito        -> Guayaquil     USD  85.00
+- Quito        -> Manta         USD  68.00
+- Quito        -> Tena          USD  55.00
+- Tena         -> Coca          USD  36.00
+- Tena         -> Quito         USD  54.00
+
+--------------------------------------------
+Consulta: Quito -> Loja
+Ruta más barata: Quito -> Cuenca -> Loja
+Costo total: USD 111.00
+Tiempo de ejecución: 0.015803 ms
+--------------------------------------------
+Consulta: Tena -> Guayaquil
+Ruta más barata: Tena -> Quito -> Guayaquil
+Costo total: USD 139.00
+Tiempo de ejecución: 0.006580 ms
+--------------------------------------------
+Consulta: Manta -> Quito
+Ruta más barata: Manta -> Guayaquil -> Quito
+Costo total: USD 129.00
+Tiempo de ejecución: 0.003836 ms
+--------------------------------------------

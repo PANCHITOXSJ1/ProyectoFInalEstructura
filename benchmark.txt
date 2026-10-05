@@ -1,0 +1,5 @@
+BENCHMARK - 20 000 EJECUCIONES POR CONSULTA
+==========================================================
+Quito      -> Loja       | costo USD 111.00 | media 0.003513 ms | mediana 0.003255 ms
+Tena       -> Guayaquil  | costo USD 139.00 | media 0.003161 ms | mediana 0.003014 ms
+Manta      -> Quito      | costo USD 129.00 | media 0.002411 ms | mediana 0.002303 ms
